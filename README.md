@@ -20,13 +20,10 @@ Logo após, *clonar* o repositório em ambiente local:
 Logo após realizar a alteração do arquivo README.md adicionando os primeiros passos, salvando o arquivo, e na sequencia visualizamos o arquivo editado:
 > git status
 
-> ``On branch main
-
-Your branch is up to date with 'origin/main'.``
-
-> ` `
-
-> `Changes not staged for commit: `
+> > On branch main
+> > Your branch is up to date with 'origin/main'.``
+> > 
+> > Changes not staged for commit:
 
 > `  (use "git add <file>..." to update what will be committed) `
 
