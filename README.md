@@ -21,21 +21,15 @@ Logo após realizar a alteração do arquivo README.md adicionando os primeiros 
 > git status
 
 > > On branch main
-> > Your branch is up to date with 'origin/main'.``
+> > Your branch is up to date with 'origin/main'.
 > > 
 > > Changes not staged for commit:
-
-> `  (use "git add <file>..." to update what will be committed) `
-
-> `  (use "git restore <file>..." to discard changes in working directory) `
-
-> `        modified:   README.md `
-
-> ` `
-
-> `no changes added to commit (use "git add" and/or "git commit -a")`
-
-> ` `
+> >  (use "git add <file>..." to update what will be committed)
+> >  (use "git restore <file>..." to discard changes in working directory) 
+> >        modified:   README.md 
+> > 
+> > no changes added to commit (use "git add" and/or "git commit -a")
+> > 
 
 
 Após a alteração, e vendo que o arquivo havia sido editado, enviamos o mesmo a área de stage:
