@@ -9,6 +9,7 @@ Este é o repositório criado para prática dos conhecimentos repassados sobre G
 - Gravar as atualizações (*commit*)
 - Enviar novas informações ao GITHUB (*push*)
 
+
 ## Primeiros Passos
 
 Criação do repositório no GITHUB, de forma que o repositório seja público.
@@ -18,15 +19,25 @@ Logo após, *clonar* o repositório em ambiente local:
 
 Logo após realizar a alteração do arquivo README.md adicionando os primeiros passos, salvando o arquivo, e na sequencia visualizamos o arquivo editado:
 > git status
+
 > `On branch main`
+
 > `Your branch is up to date with 'origin/main'.`
+
 > ` `
+
 > `Changes not staged for commit: `
+
 > `  (use "git add <file>..." to update what will be committed) `
+
 > `  (use "git restore <file>..." to discard changes in working directory) `
+
 > `        modified:   README.md `
+
 > ` `
+
 > `no changes added to commit (use "git add" and/or "git commit -a")`
+
 > ` `
 
 
@@ -39,4 +50,15 @@ Gravamos as atualizações:
 
 
 E enviamos o conteúdo novamente ao GITHUB:
-> git push remote origin
+> git push origin main
+
+
+## Atualizando Informações
+
+Realizamos pequenos ajustes, modificando novamente o arquivo README.md, aplicando a atualização (enviando para a área de stage) e enviamos novamente estas alterações:
+> git add .
+
+> git commit -m "Commit de correcoes"
+
+> git push 
+
