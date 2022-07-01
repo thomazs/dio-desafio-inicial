@@ -64,5 +64,5 @@ Esse processo foi realizado algumas vezes para treinar os passos apontados.
 
 ## Adição de Badges e Extras
 
-Foram adicionados alguns badges (imagens que identificam características ou recursos dos repositórios) ao repositório corrente, além de um arquivo indicando Extras, apenas para complementar (ter outros arquivos) no repositório. 
+Foram adicionados alguns badges (imagens que identificam características ou recursos dos repositórios) ao repositório corrente, além de um arquivo indicando [Extras](/dio-desafio-inicial/blob/main/EXTRAS.md), apenas para complementar (ter outros arquivos) no repositório. 
 
