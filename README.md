@@ -20,9 +20,8 @@ Logo após, *clonar* o repositório em ambiente local:
 Logo após realizar a alteração do arquivo README.md adicionando os primeiros passos, salvando o arquivo, e na sequencia visualizamos o arquivo editado:
 > git status
 
-> `On branch main`
-
-> `Your branch is up to date with 'origin/main'.`
+> ``On branch main`
+Your branch is up to date with 'origin/main'.``
 
 > ` `
 
@@ -62,3 +61,4 @@ Realizamos pequenos ajustes, modificando novamente o arquivo README.md, aplicand
 
 > git push 
 
+Esse processo foi realizado algumas vezes para treinar os passos apontados. 
